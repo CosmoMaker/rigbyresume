@@ -1,0 +1,28 @@
+a:link, a:visited {color: orange;
+	text-decoration: none}
+
+ul { 
+	list-style-type: square; 
+}
+
+body {
+  background-color: black; color: white; text-decoration: none;
+  background-image: url(Mordecai.png);
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  background-position: 1250px 1900px;
+}
+
+h1 { font-family: "Courier New", Times, serif; 
+	font-size: 40px; 
+}
+
+h2 { font-family: "Courier New", Times, serif; 
+	font-size: 30px; 
+	text-align: center; 
+}
+
+h3 { font-family: "Courier New", Times, serif; 
+	font-size: 25px; 
+	text-align: center; 
+}
